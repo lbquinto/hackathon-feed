@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Kaggle / Devpost Hackathon Feed</title>
+    <link>https://www.kaggle.com/competitions</link>
+    <description>Currently open Kaggle competitions and Devpost hackathons</description>
+    <item>
+      <title>[Kaggle] ARC Prize 2026 - ARC-AGI-3</title>
+      <link>https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-3</guid>
+    </item>
+    <item>
+      <title>[Kaggle] ARC Prize 2026 - ARC-AGI-2</title>
+      <link>https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/arc-prize-2026-arc-agi-2</guid>
+    </item>
+    <item>
+      <title>[Kaggle] ARC Prize 2026 - Paper Track</title>
+      <link>https://www.kaggle.com/competitions/arc-prize-2026-paper-track</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/arc-prize-2026-paper-track</guid>
+    </item>
+    <item>
+      <title>[Kaggle] RSNA Knee Abnormality Detection</title>
+      <link>https://www.kaggle.com/competitions/rsna-knee-abnormality-detection</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/rsna-knee-abnormality-detection</guid>
+    </item>
+    <item>
+      <title>[Kaggle] Google - The Gemma 4 Developer Agent Competition</title>
+      <link>https://www.kaggle.com/competitions/gemma-4-developer-agent</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/gemma-4-developer-agent</guid>
+    </item>
+    <item>
+      <title>[Kaggle] Enveda CASMI 2026 - Molecule ID From Mass Spectra</title>
+      <link>https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra</guid>
+    </item>
+    <item>
+      <title>[Kaggle] Google - The Gemma 4 Developer Agent Paper Track</title>
+      <link>https://www.kaggle.com/competitions/gemma-4-developer-agent-paper</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/gemma-4-developer-agent-paper</guid>
+    </item>
+    <item>
+      <title>[Kaggle] Predicting Airline Satisfaction</title>
+      <link>https://www.kaggle.com/competitions/playground-series-s6e10</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/playground-series-s6e10</guid>
+    </item>
+    <item>
+      <title>[Kaggle] The Pokémon Company - PTCG AI Battle Challenge Playground</title>
+      <link>https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/the-pokemon-company-ptcg-ai-battle-challenge-playground</guid>
+    </item>
+    <item>
+      <title>[Kaggle] Titanic - Machine Learning from Disaster</title>
+      <link>https://www.kaggle.com/competitions/titanic</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/titanic</guid>
+    </item>
+    <item>
+      <title>[Kaggle] House Prices - Advanced Regression Techniques</title>
+      <link>https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques</guid>
+    </item>
+    <item>
+      <title>[Kaggle] Housing Prices Competition for Kaggle Learn Users</title>
+      <link>https://www.kaggle.com/competitions/home-data-for-ml-course</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/home-data-for-ml-course</guid>
+    </item>
+    <item>
+      <title>[Kaggle] Spaceship Titanic</title>
+      <link>https://www.kaggle.com/competitions/spaceship-titanic</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/spaceship-titanic</guid>
+    </item>
+    <item>
+      <title>[Kaggle] Digit Recognizer</title>
+      <link>https://www.kaggle.com/competitions/digit-recognizer</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/digit-recognizer</guid>
+    </item>
+    <item>
+      <title>[Kaggle] Store Sales - Time Series Forecasting</title>
+      <link>https://www.kaggle.com/competitions/store-sales-time-series-forecasting</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/store-sales-time-series-forecasting</guid>
+    </item>
+    <item>
+      <title>[Kaggle] Natural Language Processing with Disaster Tweets</title>
+      <link>https://www.kaggle.com/competitions/nlp-getting-started</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/nlp-getting-started</guid>
+    </item>
+    <item>
+      <title>[Kaggle] LLM Classification Finetuning</title>
+      <link>https://www.kaggle.com/competitions/llm-classification-finetuning</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/llm-classification-finetuning</guid>
+    </item>
+    <item>
+      <title>[Kaggle] Connect X</title>
+      <link>https://www.kaggle.com/competitions/connectx</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/connectx</guid>
+    </item>
+    <item>
+      <title>[Kaggle] Contradictory, My Dear Watson</title>
+      <link>https://www.kaggle.com/competitions/contradictory-my-dear-watson</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/contradictory-my-dear-watson</guid>
+    </item>
+    <item>
+      <title>[Kaggle] Petals to the Metal - Flower Classification on TPU</title>
+      <link>https://www.kaggle.com/competitions/tpu-getting-started</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/tpu-getting-started</guid>
+    </item>
+    <item>
+      <title>[Kaggle] Kaggriculture</title>
+      <link>https://www.kaggle.com/competitions/kaggriculture</link>
+      <guid isPermaLink="false">kaggle:https://www.kaggle.com/competitions/kaggriculture</guid>
+    </item>
+    <item>
+      <title>[Devpost] Build, Ship, Shape: Amazon Developer Hackathon</title>
+      <link>https://amazonappdev2026.devpost.com/</link>
+      <guid isPermaLink="false">devpost:30992</guid>
+    </item>
+    <item>
+      <title>[Devpost] Nebius x NVIDIA Global AI Hackathon</title>
+      <link>https://nebiusglobalaihackathon.devpost.com/</link>
+      <guid isPermaLink="false">devpost:30790</guid>
+    </item>
+    <item>
+      <title>[Devpost] PayPal AI Hackathon</title>
+      <link>https://paypalaihackathon.devpost.com/</link>
+      <guid isPermaLink="false">devpost:31302</guid>
+    </item>
+    <item>
+      <title>[Devpost] OpenCV AI Competition 2026, powered by AWS</title>
+      <link>https://opencv26.devpost.com/</link>
+      <guid isPermaLink="false">devpost:30984</guid>
+    </item>
+    <item>
+      <title>[Devpost] Build With AI: Basics</title>
+      <link>https://learn-ai-basics.devpost.com/</link>
+      <guid isPermaLink="false">devpost:30447</guid>
+    </item>
+    <item>
+      <title>[Devpost] Meta VR Start Developer Competition 2026</title>
+      <link>https://start-developer-competition-26.devpost.com/</link>
+      <guid isPermaLink="false">devpost:31024</guid>
+    </item>
+    <item>
+      <title>[Devpost] Multimodal AI Hackathon 2026</title>
+      <link>https://multimodal-ai-hackathon-2026-7.devpost.com/</link>
+      <guid isPermaLink="false">devpost:31481</guid>
+    </item>
+    <item>
+      <title>[Devpost] WarriorHacks 2.0</title>
+      <link>https://warriorhacks-2-0.devpost.com/</link>
+      <guid isPermaLink="false">devpost:31103</guid>
+    </item>
+    <item>
+      <title>[Devpost] Life After Code</title>
+      <link>https://gitlab-transcend.devpost.com/</link>
+      <guid isPermaLink="false">devpost:31503</guid>
+    </item>
+  </channel>
+</rss>
